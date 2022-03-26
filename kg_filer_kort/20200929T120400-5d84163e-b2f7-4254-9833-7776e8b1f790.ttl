@@ -1,0 +1,41 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix nh: <https://newshunter.uib.no/resource#> .
+@prefix nhterm: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nh:5d84163e-b2f7-4254-9833-7776e8b1f790 a nhterm:Item ;
+    nhterm:hasAnnotation [ a nhterm:Annotation ;
+            nhterm:anchorOf "Wuhan"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Wuhan> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "stock market"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Stock_market> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "China"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/China> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "coronavirus"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Coronavirus> ] ;
+    nhterm:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20402945> ;
+    nhterm:inCollection <https://www.wikidata.org/entity/Q918> ;
+    nhterm:originalText "Covid-19 has now killed more than 1 million people since the coronavirus emerged in Wuhan, China late last year. Here are 5 things to know before the stock market opens today: https://t.co/3MtERiG6Mz"^^xsd:string ;
+    nhterm:sourceDateTime "2020-09-29T12:04:00+00:00"^^xsd:dateTime ;
+    nhterm:sourceIRL "https://twitter.com/i/status/1310913214402752512"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/China> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Coronavirus> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Stock_market> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Wuhan> a nhterm:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20402945> a foaf:Person .
+
+<https://www.wikidata.org/wiki/Q276902> a nhterm:Agent .
+
+

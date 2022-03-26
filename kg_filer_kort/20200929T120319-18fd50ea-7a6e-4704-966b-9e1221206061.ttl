@@ -1,0 +1,345 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix nh: <https://newshunter.uib.no/resource#> .
+@prefix nhterm: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nh:18fd50ea-7a6e-4704-966b-9e1221206061 a nhterm:Item ;
+    nhterm:hasAnnotation [ a nhterm:Annotation ;
+            nhterm:anchorOf "Poland"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Poland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "coronavirus"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Coronavirus> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "centre-left"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Centrism> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Greece"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Greece> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Germany"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Weimar_Republic> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "MEPs"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Parliament> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "pandemic"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Pandemic> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Italy"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Kingdom_of_Italy> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "coronavirus"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Coronavirus> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "draft"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Conscription> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "MEP"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Parliament> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "European parliament"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Parliament> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "epic"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Epic_poetry> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Hungarian"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Hungary> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Germany"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Weimar_Republic> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU budget"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Budget_of_the_European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Hungarian"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Hungary> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Nordic countries"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Nordic_countries> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Finnish"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Finnish_language> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "European parliament"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Parliament> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "European council"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Council> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "diplomat"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/United_States_Department_of_State> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Hungary"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Hungary> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "pandemic"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Pandemic> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "MEPs"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Parliament> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Hungary"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Hungary> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Viktor Orbán"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Viktor_Orbán> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Orbán"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Viktor_Orbán> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "coronavirus"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Coronavirus> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Viktor Orbán"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Viktor_Orbán> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU budget"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Budget_of_the_European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Polish"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Poland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "corona"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Corona> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "coronavirus"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Coronavirus> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "caving"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Caving> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Germany"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Weimar_Republic> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "referendum"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Referendum> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "caving"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Caving> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "European Union"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Netherlands"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Netherlands> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Poland"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Poland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "eurosceptic"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Euroscepticism> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "nationalist"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Nationalism> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Poland"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Poland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Poland"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Poland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "EU"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/European_Union> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "judicial independence"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Judicial_independence> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Finland"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Finland> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Finns party"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Finns_Party> ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Spain"^^xsd:string ;
+            nhterm:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Francoist_Spain> ] ;
+    nhterm:hasContributor <https://newshunter.uib.no/resource/unresolved#Jennifer%20Rankin%20in%20Brussels> ;
+    nhterm:inCollection <http://www.wikidata.org/entity/Q45432> ;
+    nhterm:originalText "Germany has been accused of caving into Viktor Orbán over a revamped draft law on the control of EU funds, as German diplomats attempt to settle a row that threatens to hold up billions of coronavirus recovery funds. European Union leaders had agreed a €1.8tn (£1.63 tn) financial package, consisting of a €750bn coronavirus recovery fund and a €1.074tn budget for 2021-27, at an epic summit spanning four days and nights in July. However, turning that political agreement into legal texts that commanded the support of the European parliament has been running into trouble that risked delaying the funding. A leaked compromise plan, drawn up by Germany, holder of the EU’s rotating presidency, has been heavily criticised by the Netherlands, the Nordic countries and many concerned MEPs. The law proposed in July had been intended to ensure that only countries who respected the rule of law could benefit from EU funds. The regulation had been proposed amid growing alarm in the EU about backsliding on the rule of law in Poland and Hungary, whose nationalist governments benefit from generous EU funds. Those opposed to the German-brokered compromise said the new text narrowed the definition of the rule of law. “The current proposal rows back on important elements,” said an EU diplomat. “It unduly narrows the definition into anti-corruption and misuse of European funds, instead of addressing general deficiencies.” A German Green MEP, Daniel Freund, said the European parliament would only approve the next EU budget if there was “functioning rule of law mechanism”. The German text was “worse” than the one agreed by EU leaders in July, he said. “I am not sure why the German presidency is caving in to Orbán,” he added. “Take a vote now with a qualified majority … and then call the bluff of Viktor Orbán.” He said the Hungarian prime minister would back down if his access to EU funds were threatened. The original text allowed EU authorities to act if there was a “generalised deficiency” affecting the rule of law in an EU member state, such as endangering judicial independence, or failing to prevent or sanction unlawful decisions by public authorities. The new version narrows the definition of a 'rule of law problem”, focusing it more tightly on the “proper functioning” of national authorities charged with spending EU funds. It also raises the bar by removing the threat of an EU investigation if there is a “risk affecting” EU funds. According to Freund, that means a member state could fire all its judges but continue to receive EU funds. “That doesn’t cost us anything, but Poland fire their judges. So it’s not the rule of law mechanism, it’s just some weird thing to fight corruption.” A spokesperson for the Finnish government said “a strong linkage” to the EU spending plans and the rule of law “is something Finland will adhere to strictly”. The centre-left government has been under pressure from the eurosceptic Finns party for a referendum on the EU coronavirus recovery plan. The German compromise plan emerged after Hungary and Poland threatened to block another legal text underpinning the EU budget over objections to the rule of law mechanism. Poland’s prime minister, Mateusz Morawiecki, warned on Monday that there would be “no Polish consent” to allow anyone “to threaten us with a finger only because someone likes our government less”. A spokesman for the Hungarian prime minister said the rule of law dispute was “a hidden weapon” to stop the disbursement of corona funds. Senior diplomats hope the rule of law agreement will pass with the support of southern European governments and their MEPs. Italy, Spain and Greece, whose economies are among the hardest hit by the pandemic, would lose out from any delay to unlocking billions from the EU recovery plan. An official said Germany’s rule of law proposal “very precisely implements the conclusions of the European council in July” by giving “a legal form to this hard-won and delicate European compromise”. They added: “What didn’t find the support of the heads of state and government at that time, will certainly not find it now.” EU ambassadors will discuss the problem on Wednesday, but sources say the dispute could surface at a special EU leaders’ summit on Thursday and Friday, intended to focus on foreign policy crises neglected during the coronavirus pandemic."^^xsd:string ;
+    nhterm:sourceDateTime "2020-09-29T12:03:19+00:00"^^xsd:dateTime ;
+    nhterm:sourceIRL "https://www.theguardian.com/world/2020/sep/29/german-compromise-on-releasing-eu-funds-caves-in-to-viktor-orban"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/Centrism> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Conscription> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Corona> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Epic_poetry> a nhterm:Entity .
+
+<http://dbpedia.org/resource/European_Council> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Euroscepticism> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Finland> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Finnish_language> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Finns_Party> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Francoist_Spain> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Greece> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Judicial_independence> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Kingdom_of_Italy> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Nationalism> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Netherlands> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Nordic_countries> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Referendum> a nhterm:Entity .
+
+<http://dbpedia.org/resource/United_States_Department_of_State> a nhterm:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#Jennifer%20Rankin%20in%20Brussels> a foaf:Person .
+
+<http://dbpedia.org/resource/Budget_of_the_European_Union> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Caving> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Pandemic> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Viktor_Orbán> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Weimar_Republic> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Coronavirus> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Hungary> a nhterm:Entity .
+
+<http://dbpedia.org/resource/European_Parliament> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Poland> a nhterm:Entity .
+
+<http://dbpedia.org/resource/European_Union> a nhterm:Entity .
+
+<https://www.wikidata.org/wiki/Q276902> a nhterm:Agent .
+
+

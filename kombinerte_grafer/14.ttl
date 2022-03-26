@@ -1,0 +1,34 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://newshunter.uib.no/resource#5e5beea2-c42a-48e3-8bf2-89d349d4b90c> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "teen"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Teen_film> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/16887175> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Man who 'cut up teen girls' on trial after remains found in freezer and drains https://t.co/B56oA8HhIS https://t.co/1Oty2xFqqf"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:00:01+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310912211032764416"^^xsd:anyURI .
+
+<https://newshunter.uib.no/resource#f4e60bee-59e4-4e83-96b4-8f44fa9ff51f> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "Disgraced"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Disgraced> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/16887175> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Disgraced nurse struck off for selling mentally ill mum's �85,000 house and possessions https://t.co/5YNu4UM9Xj https://t.co/b2tfdIqzH6"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:03:00+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310912961813200898"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/Disgraced> a ns1:Entity .
+
+<http://dbpedia.org/resource/Teen_film> a ns1:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/16887175> a foaf:Person .
+
+<https://www.wikidata.org/wiki/Q276902> a ns1:Agent .
+

@@ -1,0 +1,34 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://newshunter.uib.no/resource#72f57db3-332d-4858-be8b-a100130c9ccf> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "AIIMS"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/37034483> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "#SushantSinghRajputCase: AIIMS Panel Rules Out Poisoning, Say Sources  @arvindgunasekar reports  Read more: https://t.co/hb0zDph35b https://t.co/ZbFgEAE5h4"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:03:39+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310913126733291522"^^xsd:anyURI .
+
+<https://newshunter.uib.no/resource#c615d3a1-7655-4755-8edd-1119ef93593e> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "Bihar"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Bihar> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/37034483> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Ex-Union Minister Upendra Kushwaha, Out of Options, Talks Bihar 3rd Front Akhilesh Sharma reports Read more: https://t.co/3cmbHAn4CX https://t.co/4UqePHTbeW"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:01:16+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310912525823741953"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences> a ns1:Entity .
+
+<http://dbpedia.org/resource/Bihar> a ns1:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/37034483> a foaf:Person .
+
+<https://www.wikidata.org/wiki/Q276902> a ns1:Agent .
+

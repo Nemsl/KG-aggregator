@@ -1,0 +1,77 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://newshunter.uib.no/resource#5d84163e-b2f7-4254-9833-7776e8b1f790> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "Wuhan"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Wuhan> ],
+        [ a ns1:Annotation ;
+            ns1:anchorOf "stock market"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Stock_market> ],
+        [ a ns1:Annotation ;
+            ns1:anchorOf "China"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/China> ],
+        [ a ns1:Annotation ;
+            ns1:anchorOf "coronavirus"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Coronavirus> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20402945> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Covid-19 has now killed more than 1 million people since the coronavirus emerged in Wuhan, China late last year. Here are 5 things to know before the stock market opens today: https://t.co/3MtERiG6Mz"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:04:00+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310913214402752512"^^xsd:anyURI .
+
+<https://newshunter.uib.no/resource#708b5faa-a709-4671-9eee-9b11e57fa02b> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "curfew"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Curfew> ],
+        [ a ns1:Annotation ;
+            ns1:anchorOf "Boris Johnson"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Boris_Johnson> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20678866> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Boris Johnson has stood by the 10pm hospitality curfew despite calls for an urgent review - latest https://t.co/ceFUjj9W52"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:01:50+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310912667935223813"^^xsd:anyURI .
+
+<https://newshunter.uib.no/resource#abe56b02-7a08-4100-a1bd-795133525a55> a ns1:Item ;
+    ns1:hasAnnotation [ a ns1:Annotation ;
+            ns1:anchorOf "coronavirus"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Coronavirus> ],
+        [ a ns1:Annotation ;
+            ns1:anchorOf "Boris Johnson"^^xsd:string ;
+            ns1:hasAnnotator <https://www.wikidata.org/wiki/Q276902> ;
+            ns1:hasEntity <http://dbpedia.org/resource/Boris_Johnson> ] ;
+    ns1:hasContributor <https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/12870772> ;
+    ns1:inCollection <https://www.wikidata.org/entity/Q918> ;
+    ns1:originalText "Five announcements Boris Johnson could make at coronavirus press conference on Wednesday https://t.co/mu9cpVG7DS"^^xsd:string ;
+    ns1:sourceDateTime "2020-09-29T12:01:31+00:00"^^xsd:dateTime ;
+    ns1:sourceIRL "https://twitter.com/i/status/1310912589329772550"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/China> a ns1:Entity .
+
+<http://dbpedia.org/resource/Curfew> a ns1:Entity .
+
+<http://dbpedia.org/resource/Stock_market> a ns1:Entity .
+
+<http://dbpedia.org/resource/Wuhan> a ns1:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/12870772> a foaf:Person .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20402945> a foaf:Person .
+
+<https://newshunter.uib.no/resource/unresolved#https%3A//twitter.com/i/user/20678866> a foaf:Person .
+
+<http://dbpedia.org/resource/Boris_Johnson> a ns1:Entity .
+
+<http://dbpedia.org/resource/Coronavirus> a ns1:Entity .
+
+<https://www.wikidata.org/wiki/Q276902> a ns1:Agent .
+
